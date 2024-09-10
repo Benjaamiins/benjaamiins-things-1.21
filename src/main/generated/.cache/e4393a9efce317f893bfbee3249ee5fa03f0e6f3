@@ -1,0 +1,4 @@
+// 1.21	2024-09-07T20:52:51.1242261	benjaamiins/Tags for minecraft:block
+71c9fb3a064806c68b9d85d34acc50d662ef5c8a data\minecraft\tags\block\mineable\pickaxe.json
+5577fa95fb0844d7451a811734981eebe5094cf1 data\minecraft\tags\block\needs_iron_tool.json
+b504423311f1bfce2626e260dd5e9ef3cc97e402 data\minecraft\tags\block\needs_diamond_tool.json
